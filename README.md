@@ -1,82 +1,146 @@
-<!--
-**BEAMMWorks/BEAMMWorks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Buddy
 
-Here are some ideas to get you started:
+### Founder of BEAMMWorks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 👋 Welcome to BEAMMWorks!
+I enjoy building self-hosted software, sports data platforms, automation workflows, and tools that help people own their data.
 
-🎮📸📈🧠 BEAMMWorks is a creative playground and powerhouse studio led by a solo indie dev, photographer, strategist, and builder of beautiful chaos.
+Most of my projects are built with **Next.js**, **Supabase**, **n8n**, **Docker**, and **Ubuntu**, with an emphasis on simple architectures that can grow over time.
 
 ---
 
-## 🌟 Who Am I?
-Hi, I'm **Buddy**, the creator behind **BEAMMWorks** — a hub for passion-fueled projects spanning:
+# 🚀 Current Focus
 
-- 🎮 **Game Dev** – Unity-powered games, tools, and asset packs.
-- 📓 **Notion Templates** – Gamified productivity systems, habit trackers, dev planners & more.
-- 📷 **Photography** – Nature and wildlife packs, often taken on spontaneous outdoor adventures.
-- 📈 **Sports** – Community polls, fantasy pick’ems, light stats & betting tools (with big plans to return to ROI-driven arbitrage).
-- 🛍️ **Creative Storefronts** – From nostalgic gaming finds to unique physical planners.
+### 🏀 NextGenBoxscore
+A modern sports data platform providing statistics, scores, player data, analytics, APIs, and developer tools across dozens of leagues.
 
----
-
-## 🧩 Current Projects
-
-| Project | Description |
-|--------|-------------|
-| 🕹️ **Shards of Time: Echoes of the Eras** | An epic solo-built time-travel RPG releasing on Switch 3 (March 29, 2030) |
-| 🧢 **Shrink Happens: Headwear Empire** | A hilarious cap store tycoon game built from real-life retail chaos |
-| ⚽🏀🏈 **Little League Legends** | A backyard-style multi-sport sim with one shared franchise roster |
-| 🍌 **JANK** | A wild ride through intentionally broken mechanics and meme-worthy bugs |
-| 📱 **Nexa** | A swipe-style app for discovering indie games with dev-first insights |
-| 📓 **NotéDex** | The ultimate Pokémon Notion tracker for EV training, breeding, routes & more |
-| 🛠️ **BEAMMWorks Unity Toolkit** | Editor tools, generators, and helpful utilities for fellow Unity devs |
+Current focus:
+- NBA launch
+- Public API
+- Subscription platform
+- Dashboard improvements
+- Automated sports data pipelines
 
 ---
 
-## 🧠 Philosophy
-> _"Build systems that work, break them for fun, then fix them for others."_  
-I mix solid strategy with creative chaos — and I *embrace bugs as features* when it makes the ride more fun. Whether you’re here to learn, laugh, or level up your tools, there’s something brewing in every repo.
+### 🌐 BEAMMWorks
+
+My long-term platform for self-hosted software and digital ownership.
+
+Projects include:
+
+- BEAMMWorks.com
+- BEAMMWorks One
+- Homeschool Academy
+- Personal automation tools
+- AI assistants
+- Open source utilities
 
 ---
 
-## 🔗 Explore the Worlds
+# 🛠 Tech Stack
 
-- 🌐 **Website**: [BEAMMWorks.com](https://beammworks.com)
-- 📸 **Photography**: [Coming Soon — Stock Packs & Galleries]
-- 🛍️ **Store**: Gaming accessories, digital goods & physical planners
-- 🎮 **itch.io**: [Play My WebGL Builds](https://beammworks.itch.io)
-- 💬 **Discord**: [Join the BEAMMWorks Community](https://discord.gg/yourlinkhere)
-- 🧠 **Notion Templates**: [beammworks.gumroad.com](https://beammworks.gumroad.com)
-- 📈 **Sports Pick'em (Beta)**: [Coming Soon]
+### Frontend
+
+- Next.js
+- React
+- JavaScript
+- Tailwind CSS
+- Chart.js
+
+### Backend
+
+- Supabase
+- PostgreSQL
+- REST APIs
+
+### Infrastructure
+
+- Ubuntu Server
+- Docker
+- Cloudflare Tunnel
+- Tailscale
+- GitHub Actions
+- n8n
+
+### Other
+
+- Linux
+- Photography
+- UI/UX
+- Sports Analytics
+- Automation
 
 ---
 
-## 🤝 Work With Me
-Whether you're a dev needing tools, a gamer looking for the next weird hit, or a brand interested in quirky collabs — I’m always building something new.
+# 📌 Featured Repositories
+
+### 🏀 NextGenBoxscore.com
+
+Sports analytics platform built with Next.js and Supabase.
 
 ---
 
-## 📌 Pinned Projects You Should Check Out:
-> 👉 Be sure to star ⭐ your favorite repos — it helps more than you think!
+### 🌐 BEAMMWorks.com
 
-- `🔧 BEAMMWorks Unity Toolkit`
-- `🧢 Shrink Happens - Headwear Empire`
-- `🧙 Shards of Time: Echoes of the Eras`
-- `📓 NotéDex - Pokémon Master Tools`
+The main BEAMMWorks website and future ecosystem.
 
 ---
 
-## 🧵 Let’s Build Something Wild Together
-If you're still reading this, you're my kind of dev.
+### 🎓 BEAMMWorks Homeschool Academy
 
-Drop a star, fork a project, or say hey 👋
+Educational platform combining interactive learning with modern web technology.
+
+---
+
+### ☁️ BEAMMWorks One
+
+A self-hosted productivity platform focused on giving users ownership of their own data.
+
+---
+
+# Philosophy
+
+I prefer building software that is:
+
+- Simple
+- Fast
+- Self-hosted when practical
+- Easy to maintain
+- Built for the long term
+
+I believe good architecture should make future development easier—not more complicated.
+
+---
+
+# Currently Learning
+
+- Scaling PostgreSQL
+- API architecture
+- SaaS development
+- AI workflows
+- Infrastructure automation
+
+---
+
+# Looking to Collaborate On
+
+I'm always interested in meeting people who enjoy working with:
+
+- Sports data
+- Linux
+- Self-hosting
+- APIs
+- Automation
+- Open-source software
+
+---
+
+# Find Me
+
+🌐 https://beammworks.com
+
+GitHub: https://github.com/BEAMMWorks
+
+---
+
+> *Building software that lasts longer than the latest framework.*
